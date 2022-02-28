@@ -49,20 +49,20 @@ h2{
 	font-size: 18px;
 }
 
-container {
+#container {
 	width: 865px;
 	margin: 0px auto;
 }
 
 
-header {
+#header {
 	padding: 20px;
-	font-size: 72px;
+	font-size: 90px;
 	background-color: #000;
 	color: #fff;
 }
 
-header span {
+#header span {
 	color: #666;
 }
 #main_content {
