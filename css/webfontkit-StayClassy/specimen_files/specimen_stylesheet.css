@@ -57,7 +57,7 @@ h2{
 
 #header {
 	padding: 20px;
-	font-size: 50px;
+	font-size: 72px;
 	background-color: #000;
 	color: #fff;
 }
@@ -121,7 +121,7 @@ div.huge {
 	overflow: hidden;
 }
 div.glyph_range {
-	font-size: 72px;
+	font-size: 90px;
 	line-height: 1.1em;
 }
 
