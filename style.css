@@ -391,13 +391,12 @@ header .intro-text .intro-lead-in {
     /*font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;*/
     font-family: 'Lato';
     font-weight: 300;
-    font-size: 22px;
+    font-size: 36px;
     /*font-style: italic;*/
     line-height: 22px;
 }
 
 header .intro-text .intro-heading {
-    FONT-WEIGHT: 500;
     margin-bottom: 25px;
     /*text-transform: uppercase;*/
     /*font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;*/
