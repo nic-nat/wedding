@@ -49,7 +49,7 @@ h2{
 	font-size: 18px;
 }
 
-#container {
+container {
 	width: 865px;
 	margin: 0px auto;
 }
@@ -62,7 +62,7 @@ header {
 	color: #fff;
 }
 
-#header span {
+header span {
 	color: #666;
 }
 #main_content {
