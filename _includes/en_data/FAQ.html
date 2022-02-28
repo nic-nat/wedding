@@ -14,5 +14,27 @@
             <h4 class="service-heading">Dress code</h4>  
             <p class="largepad text-muted">No dress code, but put on your dancing shoes.</p>
         </div>
+        
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h4 class="service-heading">Team of honor</h4>
+                <p class="largepad text-muted">We love surprises. However, please arrange terms with these lovely people ;-).</p>
+            </div>
+        </div>
+        <div class="row">
+            {% for member in site.data.en.bridalparty %}
+            <div class="col-sm-4">
+                <div class="team-member">
+                    <img src="/wedding-template/img/bridal/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
+                    <h4>{{ member.name }}</h4>
+                    <p class="text-muted team-position">{{ member.position }}</p>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+        
+        
     </div>
 </section>
+
+
