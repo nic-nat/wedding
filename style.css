@@ -24,7 +24,7 @@ body {
 }
 
 .text-primary {
-    color: #f8d56f;
+    color: #fbceb1;
 }
 
 p {
@@ -59,14 +59,14 @@ a.active {
 }
 
 a {
-    color: #f8d56f;
+    color: #fbceb1;
 }
 
 a:hover,
 a:focus,
 a:active,
 a.active {
-    color: #facf6b;
+    color: #fbceb1;
 }
 
 h1,
@@ -85,7 +85,7 @@ h6 {
 }
 
 .bg-light-gray {
-    background-color: #f7f7f7;
+    background-color: #fbceb1;
 }
 
 .bg-darkest-gray {
@@ -98,7 +98,7 @@ h6 {
     font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 700;
     color: #fff;
-    background-color: #f8d56f;
+    background-color: #fbceb1;
 }
 
 .btn-primary:hover,
@@ -106,9 +106,9 @@ h6 {
 .btn-primary:active,
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
-    border-color: #f8d56f;
+    border-color: #fbceb1;
     color: #fff;
-    background-color: #facf6b;
+    background-color: #fbceb1;
 }
 
 .btn-primary:active,
@@ -132,8 +132,8 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-    border-color: #f8d56f;
-    background-color: #f8d56f;
+    border-color: #fbceb1;
+    background-color: #fbceb1;
 }
 
 .btn-primary .badge {
@@ -150,7 +150,7 @@ fieldset[disabled] .btn-primary.active {
     font-size: 18px;
     font-weight: 700;
     color: #fff;
-    background-color: #f8d56f;
+    background-color: #fbceb1;
 }
 
 .btn-xl:hover,
@@ -158,9 +158,9 @@ fieldset[disabled] .btn-primary.active {
 .btn-xl:active,
 .btn-xl.active,
 .open .dropdown-toggle.btn-xl {
-    border-color: #f8d56f;
+    border-color: #fbceb1;
     color: #fff;
-    background-color: #facf6b;
+    background-color: #fbceb1;
 }
 
 .btn-xl:active,
@@ -184,8 +184,8 @@ fieldset[disabled] .btn-xl:active,
 .btn-xl.disabled.active,
 .btn-xl[disabled].active,
 fieldset[disabled] .btn-xl.active {
-    border-color: #f8d56f;
-    background-color: #f8d56f;
+    border-color: #fbceb1;
+    background-color: #fbceb1;
 }
 
 .btn-xl .badge {
@@ -195,7 +195,7 @@ fieldset[disabled] .btn-xl.active {
 
 .btn-m {
     padding: 3px 3px;
-    border-color: #f8d56f;
+    border-color: #fbceb1;
     border-radius: 3px;
     text-transform: uppercase;
     font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
