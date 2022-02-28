@@ -3,7 +3,7 @@
   position: 0175-4953188
   social:
   - url: https://facebook.com
-    icon: fab fa-facebook-f
+    icon: fab fa-facebook-square
 
 - name: Chrissi
   pic: 2
@@ -15,3 +15,6 @@
 - name: Bassi
   pic: 3
   position: 0160-96478194
+#  social:
+#  - url: https://facebook.com
+#   icon: fab fa-facebook-f
