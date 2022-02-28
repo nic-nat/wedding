@@ -8,9 +8,8 @@
 - name: Chrissi
   pic: 2
   position: 0175-1515916
-  social:
-  - url: https://facebook.com
-    icon: fab fa-facebook-f
+  url: https://facebook.com
+  icon: fab fa-facebook-f
   
 
 - name: Bassi
