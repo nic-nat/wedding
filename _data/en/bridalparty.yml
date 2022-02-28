@@ -1,10 +1,17 @@
 - name: Nina
   pic: 1
   position: 0175-4953188
+  social:
+  - url: https://facebook.com
+    icon: fab fa-facebook-f
 
 - name: Chrissi
   pic: 2
   position: 0175-1515916
+  social:
+  - url: https://facebook.com
+    icon: fab fa-facebook-f
+  
 
 - name: Bassi
   pic: 3
