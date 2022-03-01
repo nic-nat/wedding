@@ -370,7 +370,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('../img/backgrounds/header.gif'); 
+    background-image: url('/wedding/img/backgrounds/header.gif'); 
     background-position: center center;
     /*background-position: top center;*/
     background-repeat: none;
@@ -413,7 +413,7 @@ header .intro-text .intro-heading {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('../img/backgrounds/header.gif'); 
+    background-image: url('/wedding/img/backgrounds/header.gif'); 
     /*background-position: center center;*/
     background-position: top center;
     background-repeat: none;
@@ -792,7 +792,7 @@ aside.clients img {
 
 section#contact {
     background-color: #222;
-    background-image: url('../img/backgrounds/contact-bg.jpg');
+    background-image: url('/wedding/img/backgrounds/contact-bg.jpg');
     background-size: 100% 100%;
     background-position: center;
     background-repeat: no-repeat;
