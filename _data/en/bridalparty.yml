@@ -10,14 +10,16 @@
 - name: Chrissi
   pic: 4
   position: 0160-1515916
-  url: https://facebook.com
-  icon: fab fa-facebook-square
-  title: Facebook
+  social:
+  - url: https://facebook.com
+    icon: fab fa-facebook-f
   
 
 - name: Bassi
   pic: 3
   position: 0175-96478194
-#  social:
-#  - url: https://facebook.com
-#   icon: fab fa-facebook-f
+  social:
+  - url: https://facebook.com
+    icon: fab fa-facebook-f
+  - url: https://instagram.com
+    icon: fab fa-instagram
