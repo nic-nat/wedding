@@ -4,8 +4,8 @@
   social:
   - url: https://facebook.com
     icon: fab fa-facebook-f
-  - url: https://twitter.com
-    icon: fab fa-twitter
+  - url: https://instagram.com
+    icon: fab fa-instagram
 
 - name: Chrissi
   pic: 4
@@ -13,7 +13,8 @@
   social:
   - url: https://facebook.com
     icon: fab fa-facebook-f
-  
+  - url: https://instagram.com
+    icon: fab fa-instagram
 
 - name: Bassi
   pic: 3
